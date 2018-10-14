@@ -1,0 +1,5 @@
+D:\Development\Learn C# Step by Step\ConsoleApplication1\FileSearch\bin\Debug\FileSearch.dll
+D:\Development\Learn C# Step by Step\ConsoleApplication1\FileSearch\bin\Debug\FileSearch.pdb
+D:\Development\Learn C# Step by Step\ConsoleApplication1\FileSearch\obj\Debug\FileSearch.csprojResolveAssemblyReference.cache
+D:\Development\Learn C# Step by Step\ConsoleApplication1\FileSearch\obj\Debug\FileSearch.dll
+D:\Development\Learn C# Step by Step\ConsoleApplication1\FileSearch\obj\Debug\FileSearch.pdb

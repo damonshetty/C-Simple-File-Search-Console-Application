@@ -1,0 +1,8 @@
+D:\Development\Learn C# Step by Step\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Development\Learn C# Step by Step\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Development\Learn C# Step by Step\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Development\Learn C# Step by Step\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Development\Learn C# Step by Step\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Development\Learn C# Step by Step\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Development\Learn C# Step by Step\ConsoleApplication1\ConsoleApplication1\bin\Debug\FileSearch.dll
+D:\Development\Learn C# Step by Step\ConsoleApplication1\ConsoleApplication1\bin\Debug\FileSearch.pdb
